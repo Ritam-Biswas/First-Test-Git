@@ -2,4 +2,5 @@
 Just getting started with git
  First attempt to commit
  First attempt successful
+ First attempt to pull
 
